@@ -16,7 +16,7 @@ int main()
 		for (j = 0; j < col; j++)
 		{
 			scanf(" %d", &(*(*(arr1 + i) + j)));
-			// scanf(" %d",&arr1[i][j]);
+			// 
 		}
 	}
 	int arr2[row][col];
